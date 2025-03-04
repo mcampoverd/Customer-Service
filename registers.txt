@@ -1,0 +1,56 @@
+Inquiry: 
+Hi inquiry test
+Complaint: 
+Complaint test
+Congratulations: 
+Congratulation test
+Congratulations: 
+Congratulation test
+Inquiry: 
+prueba 
+Inquiry: 
+prueba 
+Complaint: 
+Test 2
+Inquiry: 
+Test2 inquiry
+Congratulations: 
+Test 2 congratulations.
+Congratulations: 
+Test 2 congratulations.
+Inquiry: 
+Test 3 Inquiry
+Complaint: 
+Test 3 complaints
+Congratulations: 
+Test 3 congratulations
+Congratulations: 
+Test 3 congratulations
+Inquiry: 
+Last test inquiry
+Complaint: Last test complaint
+
+Congratulations: Last test congratulations
+
+Congratulations: Last test congratulations
+
+Inquiry: Final final test inquiry
+Complaint: Final final test complaint
+Congratulations: Final final test
+Inquiry: Final final test
+Inquiry: Final final test
+Inquiry: test final final final inquiry
+Inquiry: 4th test inquiry
+Complaint: 5th test complaint
+Congratulations: 5th test complaint
+Inquiry: 5th test inquiry
+Inquiry: 5th test inquiry
+Congratulations: test 1
+Complaint: test 2
+Complaint: test 2
+Complaint: test 2
+Congratulations: test3
+Congratulations: test3
+Inquiry: Test
+Congratulations: 
+Congratulations: test
