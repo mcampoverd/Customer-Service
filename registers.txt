@@ -54,3 +54,7 @@ Congratulations: test3
 Inquiry: Test
 Congratulations: 
 Congratulations: test
+Inquiry: Could you please call me before delivering the package? My name is Monica and my number is 765 777 8888
+Inquiry: Could you please call me before delivering the package? My name is Monica and my number is 765 777 8888
+Complaint: My last delivery arrived wet. 
+Congratulations: The person on the cellphone was very kind and helped me to solve the problem. 
